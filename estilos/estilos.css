@@ -1,0 +1,36 @@
+.Contenedor{
+    justify-content: center;
+    display: flex;
+    padding-top: 70px;
+}
+
+.Container{
+    background-color: red;
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    display: flex;
+    padding-top: 40px;
+    border-radius: 2%;
+}
+
+.Square{
+    background-color: blue;
+    width: 340px;
+    height: 280px;
+    justify-content: center;
+    display: flex;
+    padding-top: 70px;
+    border-radius: 30px;
+}
+
+.Circle{
+    background-color: green;
+    width: 220px;
+    height: 220px;
+    justify-content: center;
+    display: flex;
+    border-radius : 50%;
+    border: 2px solid white; 
+
+}
